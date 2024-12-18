@@ -17,7 +17,7 @@
 
 John the Ripper automation script that gives the user the ability to run multiple hash files at once while also
 giving the user the freedom to utilize the default John wordlist, the rockyou wordlist (must be located in the /usr/share/wordlists directory),
-or another they can provide from input.
+or another they can provide from input. This program does accept *nix style globbing as well as absolute paths to either hash lists or wordlists.
 
 Rich Smith (richrsmith@proton.me)
 first written Dec 2024
